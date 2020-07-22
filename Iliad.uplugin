@@ -1,0 +1,98 @@
+{
+  "FileVersion": 3,
+  "Version": 5,
+  "VersionName": "0.5.425",
+  "FriendlyName": "Iliad",
+  "Description": "Painting plugin with Blueprint brushes for Unreal Engine",
+  "Category": "2D",
+  "CreatedBy": "Praxinos",
+  "CreatedByURL": "https://praxinos.coop",
+  "DocsURL": "https://praxinos.coop/forum/viewforum.php?f=15",
+  "MarketplaceURL": "",
+  "SupportURL": "https://praxinos.coop/contact.php",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "OdysseyBrush",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyLayer",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyMaths",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyPaintEngine",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseySerializable",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyStrokePipeline",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyTransaction",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "ULISLoader",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyImaging",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyStylusInput",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyBrushEditor",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
+    },
+    {
+      "Name": "OdysseyPainterEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyStyle",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyTexture",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyTextureEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "OdysseyWidgets",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
